@@ -1,0 +1,15 @@
+{
+  "contractVersion": 1,
+  "status": "PLACEHOLDER",
+  "unity": { "pixelsPerUnit": 100, "colorSpace": "project-default", "transparentBackground": true },
+  "sortingLayers": ["Environment", "Fish", "Effects", "UI"],
+  "assets": [
+    { "key": "aquarium-frame", "path": "Environment/aquarium-frame.svg", "logicalSize": [1600, 900], "pivot": [0.5, 0.5], "sortingLayer": "Environment" },
+    { "key": "substrate", "path": "Environment/substrate.svg", "logicalSize": [1600, 240], "pivot": [0.5, 0.0], "sortingLayer": "Environment" },
+    { "key": "plant-anubias", "path": "Environment/plant-anubias.svg", "logicalSize": [220, 420], "pivot": [0.5, 0.0], "sortingLayer": "Environment" },
+    { "key": "fish-amber", "path": "Fish/fish-amber.svg", "logicalSize": [240, 120], "pivot": [0.5, 0.5], "sortingLayer": "Fish", "speciesKey": "amber_guppy" },
+    { "key": "fish-blue", "path": "Fish/fish-blue.svg", "logicalSize": [240, 120], "pivot": [0.5, 0.5], "sortingLayer": "Fish", "speciesKey": "blue_tetra" },
+    { "key": "fish-coral", "path": "Fish/fish-coral.svg", "logicalSize": [240, 120], "pivot": [0.5, 0.5], "sortingLayer": "Fish", "speciesKey": "coral_platy" },
+    { "key": "ripple-ring", "path": "Interaction/ripple-ring.svg", "logicalSize": [320, 320], "pivot": [0.5, 0.5], "sortingLayer": "Effects", "persisted": false }
+  ]
+}
